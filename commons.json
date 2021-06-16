@@ -1,39 +1,39 @@
 {
    "title":"Commons no Ma",
-   "description":"",
+   "description":"The Evil of the Commons",
    "artist":"Tomohiro Kai",
    "author":"Tomohiro Kai",
    "cover":"https://i.nhentai.net/galleries/1171399/1.png",
    "chapters":{
       "1":{
-         "title":"<chapter name>",
-         "volume":"<volume number>",
+         "title":"1",
+         "volume":"1",
          "groups":{
-            "<group name>":"/proxy/api/nhentai/chapter/221040/"
+            "ink complex":"/proxy/api/nhentai/chapter/221040/"
          },
          "last_updated":"1516313978"
       },
       "2":{
-         "title":"<chapter name>",
-         "volume":"<volume number>",
+         "title":"2",
+         "volume":"1",
          "groups":{
-            "<group name>":"/proxy/api/nhentai/chapter/249062/"
+            "ink complex":"/proxy/api/nhentai/chapter/249062/"
          },
          "last_updated":"1538793395"
       },
       "3":{
-         "title":"<chapter name>",
-         "volume":"<volume number>",
+         "title":"3",
+         "volume":"1",
          "groups":{
-            "<group name>":"/proxy/api/nhentai/chapter/261340/"
+            "inkcomplex":"/proxy/api/nhentai/chapter/261340/"
          },
          "last_updated":"1548820534"
       },
       "4":{
-         "title":"<chapter name>",
-         "volume":"<volume number>",
+         "title":"4",
+         "volume":"1",
          "groups":{
-            "<group name>":"/proxy/api/nhentai/chapter/289795/"
+            "ink complex":"/proxy/api/nhentai/chapter/289795/"
          },
          "last_updated":"1572635710"
       }
