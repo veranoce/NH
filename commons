@@ -21,21 +21,21 @@
          },
          "last_updated":"1616368746"
       },
-   "3":{
-      "title":"<chapter name>",
-      "volume":"<volume number>",
-      "groups":{
-         "<group name>":"/proxy/api/nhentai/chapter/261340/"
+      "3":{
+         "title":"<chapter name>",
+         "volume":"<volume number>",
+         "groups":{
+            "<group name>":"/proxy/api/nhentai/chapter/261340/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated":"1616368746"
-   },
-   "2":{
-      "title":"<chapter name>",
-      "volume":"<volume number>",
-      "groups":{
-         "<group name>":"/proxy/api/nhentai/chapter/249062/"
-      },
-      "last_updated":"1616368746"
+      "2":{
+         "title":"<chapter name>",
+         "volume":"<volume number>",
+         "groups":{
+            "<group name>":"/proxy/api/nhentai/chapter/249062/"
+         },
+         "last_updated":"1616368746"
+      }
    }
-}
 }
