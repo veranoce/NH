@@ -3,7 +3,7 @@
    "description":"",
    "artist":"Tomohiro Kai",
    "author":"Tomohiro Kai",
-   "cover":"https://i.nhentai.net/galleries/1171399/1.png",
+   "cover":"",
    "chapters":{
       "4":{
          "title":"<chapter name>",
@@ -20,8 +20,7 @@
             "<group name>":"/proxy/api/nhentai/chapter/221040/"
          },
          "last_updated":"1616368746"
-      }
-   },
+      },
    "3":{
       "title":"<chapter name>",
       "volume":"<volume number>",
@@ -38,4 +37,5 @@
       },
       "last_updated":"1616368746"
    }
+}
 }
