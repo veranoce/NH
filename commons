@@ -1,0 +1,41 @@
+{
+   "title":"Commons no Ma",
+   "description":"",
+   "artist":"Tomohiro Kai",
+   "author":"Tomohiro Kai",
+   "cover":"https://i.nhentai.net/galleries/1171399/1.png",
+   "chapters":{
+      "4":{
+         "title":"<chapter name>",
+         "volume":"<volume number>",
+         "groups":{
+            "<group name>":"/proxy/api/nhentai/chapter/289795/"
+         },
+         "last_updated":"1616368746"
+      },
+      "1":{
+         "title":"<chapter name>",
+         "volume":"<volume number>",
+         "groups":{
+            "<group name>":"/proxy/api/nhentai/chapter/221040/"
+         },
+         "last_updated":"1616368746"
+      }
+   },
+   "3":{
+      "title":"<chapter name>",
+      "volume":"<volume number>",
+      "groups":{
+         "<group name>":"/proxy/api/nhentai/chapter/261340/"
+      },
+      "last_updated":"1616368746"
+   },
+   "2":{
+      "title":"<chapter name>",
+      "volume":"<volume number>",
+      "groups":{
+         "<group name>":"/proxy/api/nhentai/chapter/249062/"
+      },
+      "last_updated":"1616368746"
+   }
+}
