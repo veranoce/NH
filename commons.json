@@ -1,12 +1,12 @@
 {
    "title":"Commons no Ma",
-   "description":"The Evil of the Commons",
+   "description":"The Evil of Commons",
    "artist":"Tomohiro Kai",
    "author":"Tomohiro Kai",
    "cover":"https://i.nhentai.net/galleries/1171399/1.png",
    "chapters":{
       "1":{
-         "title":"1",
+         "title":"Kyoyuchi no Aku - The Evil of Commons",
          "volume":"1",
          "groups":{
             "Biri Biri":"/proxy/api/nhentai/chapter/221040/"
@@ -14,7 +14,7 @@
          "last_updated":"1516313978"
       },
       "2":{
-         "title":"2",
+         "title":"Commons no Ma 2 - The Evil of Commons 2",
          "volume":"1",
          "groups":{
             "Biri Biri":"/proxy/api/nhentai/chapter/249062/"
@@ -22,7 +22,7 @@
          "last_updated":"1538793395"
       },
       "3":{
-         "title":"3",
+         "title":"Commons no Ma 3 - The Evil of Commons 3",
          "volume":"1",
          "groups":{
             "Biri Biri":"/proxy/api/nhentai/chapter/261340/"
@@ -30,7 +30,7 @@
          "last_updated":"1548820534"
       },
       "4":{
-         "title":"4",
+         "title":"Commons no Ma 4 - The Evil of Commons 4",
          "volume":"1",
          "groups":{
             "Biri Biri":"/proxy/api/nhentai/chapter/289795/"
