@@ -1,0 +1,25 @@
+{
+   "title":"Senpai ga Boku ni Shiteru Koto",
+   "description":"What my senpai does for me",
+   "artist":"Sasamori Tomoe",
+   "author":"Sasamori Tomoe",
+   "cover":"https://i.imgur.com/XvM9gpH.jpeg",
+   "chapters":{
+      "1":{
+         "title":"Senpai ga Boku ni Shiteru Koto",
+         "volume":"1",
+         "groups":{
+            "":"/proxy/api/imgur/chapter/Ja2s2rM/"
+         },
+         "last_updated":""
+      },
+      "2":{
+         "title":"Senpai ga Boku ni Shiteru Koto 2 | What my Senpai does for me 2",
+         "volume":"1",
+         "groups":{
+            "Anotsu Sagami":"/proxy/api/nhentai/chapter/290362/"
+         },
+         "last_updated":"1573138713"
+      }
+   }
+}
